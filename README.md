@@ -77,5 +77,5 @@
 <br/>
 <h3 align="center" > Book a meeting ☎️ </h3>
 <div align="center">
-<a align="center" href="https://cal.com/zied-chekir/github"> Let's talk 👋</a>
+<a target="_blank" align="center" href="https://cal.com/zied-chekir/github"> Let's talk 👋</a>
 </div>
