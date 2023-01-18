@@ -13,9 +13,9 @@
 </h1> 
 <div aligh="center">
 	
-- :school: I am an ICT engineering student at the Higher School of Communication of Tunis
+- :school: ICT engineering student at the Higher School of Communication of Tunis
 - :trophy: Won multiple hacakthons
-- 🏦 I have experience building decentralized finance apps 
+- 🏦 Have experience building decentralized finance apps 
 - 🎮 Game developer. Check out my games on [Playstore](https://play.google.com/store/apps/developer?id=zied+chekir&hl=en&gl=US) 
 	
 </div>	
